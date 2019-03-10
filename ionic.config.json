@@ -1,6 +1,8 @@
 {
   "name": "ocrexample",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "8ea6e1c1"
 }
